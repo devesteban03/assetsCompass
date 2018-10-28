@@ -1,0 +1,129 @@
+
+	[
+		{
+		  "id": 1,
+		  "title": "Área Protegida",
+		  "pluralTitle": "Áreas Protegidas",
+		  "key": "area_protegida",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "14-areasprotegidas.png"
+		},
+		{
+		  "id": 2,
+		  "title": "Arqueología",
+		  "pluralTitle": "Arqueologías",
+		  "key": "arqueologia",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "1-arqueologia.png"
+		},
+		{
+		  "id": 3,
+		  "title": "Artesanía",
+		  "pluralTitle": "Artesanías",
+		  "key": "artesania",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "6-artesania.png"
+		},
+		{
+		  "id": 4,
+		  "title": "Centro de Esquí",
+		  "pluralTitle": "Centros de Esquí",
+		  "key": "esqui",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "10-centrosdesky.png"
+		},
+		{
+		  "id": 5,
+		  "title": "Geositio",
+		  "pluralTitle": "Geositios",
+		  "key": "geositio",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "3-geositios.png"
+		},
+		{
+		  "id": 6,
+		  "title": "Iglesia",
+		  "pluralTitle": "Iglesias",
+		  "key": "iglesia",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "8-iglesias.png"
+		},
+		{
+		  "id": 7,
+		  "title": "Museo",
+		  "pluralTitle": "Museos",
+		  "key": "museo",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "12-museos.png"
+		},
+		{
+		  "id": 8,
+		  "title": "Observatório Astronómico",
+		  "pluralTitle": "Observatorios",
+		  "key": "observatorio",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "14-observatorios.png"
+		},
+		{
+		  "id": 9,
+		  "title": "Patrimonio Nacional",
+		  "pluralTitle": "Patrimonios",
+		  "key": "patrimonio",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "5-patrimonio.png"
+		},
+		{
+		  "id": 10,
+		  "title": "Playa",
+		  "pluralTitle": "Playas",
+		  "key": "playa",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "9-playas.png"
+		},
+		{
+		  "id": 11,
+		  "title": "Sitio de Interés",
+		  "pluralTitle": "Sitios de Interés",
+		  "key": "sitio_interes",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "2-sitio de interes.png"
+		},
+		{
+		  "id": 12,
+		  "title": "Terma Natural",
+		  "pluralTitle": "Termas Naturales",
+		  "key": "terma",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "4-termas.png"
+		},
+		{
+		  "id": 13,
+		  "title": "Viña",
+		  "pluralTitle": "Viñas",
+		  "key": "vina",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "7-vinas.png"
+		},
+		{
+		  "id": 14,
+		  "title": "Salto",
+		  "pluralTitle": "Saltos",
+		  "key": "salto",
+		  "group": "poi",
+		  "available": 1,
+		  "img": "15-saltos.png"
+		}
+	  ]
